@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Navbar {
+  display: flex;
+}
+
+.title {
+  color: white;
+  margin: 0px;
+  text-align: center;
+  padding-left: 70%;
+}
+
+.icon{
+  margin-right: 10px;
+}
+
+.body{
+  text-align: center;
+  margin: 50px;
+}
+
+input{
+  width: 300px;
+}
+
+.description{
+  width: 800px;
+  height: 200px;
+}
